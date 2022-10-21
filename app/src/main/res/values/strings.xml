@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LinearLayout</string>
+    <string name="npm">Nomor Pokok Mahasiswa</string>
+    <string name="nama">Nama Mahasiswa</string>
+    <string name="prodi">Program Studi</string>
+    <string name="cancel">CANCEL</string>
+    <string name="simpan">SIMPAN</string>
+</resources>
